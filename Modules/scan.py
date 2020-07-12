@@ -1,3 +1,4 @@
+import time
 import nmap3 
 from colored import fg, bg, attr
 import colored
